@@ -5,6 +5,9 @@
 	"files": [
 		"005_typescript_config.ts",
 		"variables.ts",
-		"string_interpolation.ts"
+		"string_interpolation.ts",
+		"type_alias.ts",
+		"types.ts",
+		"union_types.ts"
 	]
 }
