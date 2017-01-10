@@ -8,10 +8,11 @@
 // console.log(paidAccount);
 // console.log(versionNumber);
 function printName(f, l) {
-    var greeting = "Hi there";
+    var greeting = "Hi there, ";
     console.log(greeting + f + " " + l);
-    var greeting = "hey there";
+    var greeting = "hey there, ";
     console.log(greeting + f + " " + l);
 }
+// let can not be redefined as var can but var has to be the same data type
 printName("Levi", "Smith");
 //# sourceMappingURL=variables.js.map

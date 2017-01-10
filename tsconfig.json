@@ -3,11 +3,29 @@
 		"sourceMap": true
 	},
 	"files": [
-		"005_typescript_config.ts",
-		"variables.ts",
-		"string_interpolation.ts",
-		"type_alias.ts",
-		"types.ts",
-		"union_types.ts"
+		// "005_typescript_config.ts",
+		// "variables.ts",
+		// "string_interpolation.ts",
+		// "type_alias.ts",
+		// "types.ts",
+		// "union_types.ts",
+		// "math_operators.ts",
+		// "conditionals.ts",
+		// "compund_conditionals.ts",
+		// "loops.ts",
+		// "functions.ts",
+		// "function_arguments.ts",
+		// "arrow_functions.ts",
+		// "decs_vs_express.ts",
+		// "imid_invoked_functions.ts",
+		// "immediately_invoked_function_arguments.ts",
+		// "closures.ts",
+		// "classes.ts",
+		// "inheritance.ts",
+		// "objects.ts",
+		// "interfaces.ts",
+		// "interfaces_for_functions.ts",
+		// "classes_implementing_interfaces.ts",
+		"namespaces.ts"
 	]
 }
