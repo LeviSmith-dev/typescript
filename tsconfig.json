@@ -1,5 +1,10 @@
 {
 	"compilerOptions": {
+		"module": "amd",
+		//"target": "es6",
+		"target": "ES5",
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
 		"sourceMap": true
 	},
 	"files": [
@@ -26,6 +31,13 @@
 		// "interfaces.ts",
 		// "interfaces_for_functions.ts",
 		// "classes_implementing_interfaces.ts",
-		"namespaces.ts"
+		// "namespaces.ts",
+		// "this.ts",
+		// "callbacks.ts",
+		// "promises.ts",
+		// "decorators.ts",
+		// "class_decorators.ts",
+		// "function_decorators.ts",
+		"angular_2.ts"
 	]
 }
